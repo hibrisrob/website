@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hibris Robles</title>
+	<atom:link href="https://hibrisrob.github.io/site/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hibrisrob.github.io/site</link>
+	<description></description>
+	<lastBuildDate>Mon, 04 Nov 2024 13:44:36 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://hibrisrob.github.io/site/wp-content/uploads/2024/11/HRBlue.png</url>
+	<title>Hibris Robles</title>
+	<link>https://hibrisrob.github.io/site</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>¡Hola, mundo!</title>
+		<link>https://hibrisrob.github.io/site/2024/11/04/hola-mundo/</link>
+					<comments>https://hibrisrob.github.io/site/2024/11/04/hola-mundo/#comments</comments>
+		
+		<dc:creator><![CDATA[Hibris]]></dc:creator>
+		<pubDate>Mon, 04 Nov 2024 13:44:36 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false">https://hibrisrob.github.io/site/?p=1</guid>
+
+					<description><![CDATA[Te damos la bienvenida a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡luego empieza a escribir!]]></description>
+										<content:encoded><![CDATA[
+<p>Te damos la bienvenida a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡luego empieza a escribir!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hibrisrob.github.io/site/2024/11/04/hola-mundo/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
